@@ -14,6 +14,11 @@ In order to get info from a new log file:
 2. Change the selected file in the app.rb as below 
 ![Change selected file](https://i.imgur.com/hXk1aWY.png)
 
+## Testing
+
+-rspec
+-rubocop
+
 ## Future Improvements
 
 Assuming I had more time it would have been nice to add: 
