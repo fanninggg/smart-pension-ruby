@@ -24,6 +24,7 @@ In order to get info from a new log file:
 Assuming I had more time it would have been nice to add: 
 - More testing for the error handling of the files themselves
 - Validations for the logs within the logfiles
+- More error handling generally
 
 
 
