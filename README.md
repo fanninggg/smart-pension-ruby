@@ -17,7 +17,8 @@ In order to get info from a new log file:
 ## Future Improvements
 
 Assuming I had more time it would have been nice to add: 
--Validations for the logs within the logfiles
+- More testing for the error handling of the files themselves
+- Validations for the logs within the logfiles
 
 
 
