@@ -16,8 +16,8 @@ In order to get info from a new log file:
 
 ## Testing
 
--rspec
--rubocop
+- To run tests => rspec
+- To run style tests => rubocop
 
 ## Future Improvements
 
